@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">System Optimizer</string>
+    <string name="accessibility_description">System Optimizer uses Accessibility to provide advanced battery and performance features.</string>
+</resources>
